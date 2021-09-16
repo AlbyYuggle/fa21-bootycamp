@@ -1,6 +1,6 @@
 ## About
 
-I am a **_INSERT ROLE HERE_** at Hack4Impact!
+I am a Software Developer at Hack4Impact!
 
 ## My Profile
 
@@ -9,13 +9,13 @@ I am a **_INSERT ROLE HERE_** at Hack4Impact!
     <td align="center">
       <a href="tacobell.com">
         <img
-          src="https://data.whicdn.com/images/317675372/original.jpg"
+          src="https://media-exp1.licdn.com/dms/image/C4D03AQHlF2a5vqDK6g/profile-displayphoto-shrink_200_200/0/1608147271244?e=1637193600&v=beta&t=vZNun_YhnfMUomf062n-sgo2u1pVWddyMlxoiTB5wiw"
           width="500px"
         />
         <br />
-        <b><i>INSERT NAME</i></b>
+        <b><i>Albert Xiao</i></b>
         <br />
-        <sub><b><i>INSERT ROLE</i></b></sub>
+        <sub><b><i>Software Developer</i></b></sub>
       </a>
     </td>
     </tr>
@@ -23,7 +23,7 @@ I am a **_INSERT ROLE HERE_** at Hack4Impact!
 
 ## Usage
 
-The latest version of this application can be found at my branch named **_INSERT NAME_**.
+The latest version of this application can be found at my branch named albert-xiao-bootcamp.
 
 To setup and run locally:
 
